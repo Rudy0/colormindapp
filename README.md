@@ -5,6 +5,7 @@
 
 A very simple app that gets random rgb  color from ColorMind API and changes the background view with that color. 
 Can save the color you like and view all saved colors in a table list.
+
 ![](colormind.png)
 
 
